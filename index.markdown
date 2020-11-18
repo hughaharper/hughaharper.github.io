@@ -4,6 +4,7 @@
 
 layout: home
 title: Home
+order: 1
 ---
 This website is a work in progress. Please do not look at it!
 
