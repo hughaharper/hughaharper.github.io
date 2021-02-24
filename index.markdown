@@ -5,7 +5,10 @@
 layout: home
 title: Home
 order: 1
+image_sliders:
+  - home_slider
 ---
-This website is a work in progress. Please do not look at it!
 
-## Research Interests
+{% include slider.html selector="home_slider" %}<br>
+
+I am a PhD candidate in geophysics at the Scripps Institution of Oceanography. I work with Prof. David Sandwell in the "Topex" Lab, studying marine gravity and tectonics.
