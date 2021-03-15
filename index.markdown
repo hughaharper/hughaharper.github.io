@@ -13,4 +13,4 @@ image_sliders:
 
 I am a PhD candidate in geophysics at the Scripps Institution of Oceanography. I work with Prof. David Sandwell in the "Topex" Lab, studying marine gravity and tectonics. Find out more about the work we do on my [research](research.markdown) page.
 
-My research is currently supported by a NASA FINESST grant (award no. 80NSSC20K1666).
+My research is currently supported by a NASA FINESST grant (award no. 80NSSC20K1616).
