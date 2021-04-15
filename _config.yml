@@ -44,6 +44,8 @@ plugins:
 
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 
+include: ["_pages"]
+
 defaults:
   # _posts
   - scope:

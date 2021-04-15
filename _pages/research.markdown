@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Research
-order: 2
+permalink: /research/
 ---
 
 ## Marine gravity recovery from satellite altimetry
