@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: "index"
+  - title: "Research"
+    url: "research"
+  - title: "Posts"
+    url: "blog"
+  - title: "About Me"
+    url: "about"
