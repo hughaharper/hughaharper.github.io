@@ -17,25 +17,59 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-title: Hugh Harper
+locale: "en-US"
+title: "Hugh A Harper Dot Github Dot IO"
 email: huharper@ucsd.edu
 author: Hugh
 description: >- # this means to ignore newlines until "baseurl:"
   This website is a work in progress.
 
-  
+
   My research is currently supported by a NASA FINESST grant (award no. 80NSSC20K1616).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
+repository: "hughaharper/hughaharper.github.io"
 github_username: hughaharper
 
+masthead_title: "Hugh Harper"
+logo: "/assets/images/favicon.ico"
+
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dirt"
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      share: true
+      show_date: true
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
+footer:
+  links:
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/hughaharper"
+    - label: "LinkedIn"
+      icon: ""
+      url: "https://www.linkedin.com/in/hugh-harper-419805104/"
+    - label: "ResearchGate"
+      icon: ""
+      url: "https://www.researchgate.net/profile/Hugh-Harper-2"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
