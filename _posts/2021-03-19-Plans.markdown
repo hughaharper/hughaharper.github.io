@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Current Plans for this site"
 date:   2021-03-19
 categories:
