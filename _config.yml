@@ -35,7 +35,6 @@ masthead_title: "Hugh Harper"
 logo: "/assets/images/favicon.ico"
 
 # Build settings
-theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dirt"
 plugins:
   - jekyll-feed
