@@ -2,6 +2,8 @@
 layout: single
 title: Research
 permalink: /research/
+header:
+  overlay_image: /assets/images/global-vgg.png
 ---
 
 ## Marine gravity recovery from satellite altimetry
