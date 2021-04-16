@@ -6,10 +6,18 @@ header:
   overlay_image: /assets/images/global-vgg.png
 ---
 
-## Marine gravity recovery from satellite altimetry
+## Marine gravity recovery from satellite
+
+<figure class="align-right">
+  <img src="/assets/images/Sat-altimetry.png" style="width:250px;"/>
+  <figcaption>Basic measurements of a satellite altimeter</figcaption>
+</figure>
+
 Prediction of marine gravity from satellite altimeter data is a process that emerged with the Seasat mission in the late 1970s.
 
 In the Topex lab, I help to process incoming data from active satellite altimeters which we compile to re-estimate the global gravity and vertical gravity gradient (VGG) grids. The most recent publication can be found [here](/files/Sandwell_et_al-2019.pdf).
+
+{% include figure image_path="/assets/images/global-faa.png" caption="The global marine free-air anomaly." %}{: .align-center}
 
 ## Marine tectonics
 The recovered gravity anomalies and VGG over the oceans reveal details of and provide context to ocean floor features that may be previously unexplored.
@@ -21,11 +29,11 @@ In the past, the Topex lab has produced global topography/bathymetry grids which
 
 * Editing multibeam data with machine learning models
 
-  stuff
+
 
 * Synthetic high resolution bathymetry
 
-  stuff
+
 
 ***
 
