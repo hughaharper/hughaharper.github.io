@@ -20,11 +20,12 @@
 locale: "en-US"
 title: "Hugh A Harper Dot Github Dot IO"
 email: huharper@ucsd.edu
-author: Hugh
+author:
+  name: "Hugh Harper"
+  avatar: "/assets/images/bio_photo.jpeg"
+
 description: >- # this means to ignore newlines until "baseurl:"
   This website is a work in progress.
-
-
   My research is currently supported by a NASA FINESST grant (award no. 80NSSC20K1616).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
