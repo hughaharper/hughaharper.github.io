@@ -71,7 +71,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hughaharper"
     - label: "LinkedIn"
-      icon: ""
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/hugh-harper-419805104/"
     - label: "ResearchGate"
       icon: ""
