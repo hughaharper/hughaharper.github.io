@@ -13,7 +13,9 @@ header:
 </figure>
 
 
-I am a PhD candidate in geophysics at the Scripps Institution of Oceanography. I work with Prof. David Sandwell in the ["Topex" Lab](https://topex.ucsd.edu/), studying marine gravity and tectonics. Find out more about the work we do on my [research](research.markdown) page.
+I am a PhD candidate in geophysics at the Scripps Institution of Oceanography. I work with Prof. David Sandwell in the ["Topex" Lab](https://topex.ucsd.edu/), studying marine gravity and tectonics using techniques from satellite geodesy. Find out more about the work we do on my [research](research.markdown) page.
+
+Please feel free to email me at *huharper* \[at\] *ucsd* \[dot\] *edu* with questions or comments.
 
 <br/>
 
