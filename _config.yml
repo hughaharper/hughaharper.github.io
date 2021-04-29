@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "en-US"
-title: "Hugh A Harper Dot Github Dot IO"
+title: "Hugh Harper Geophysics"
 email: huharper@ucsd.edu
 author:
   name: "Hugh Harper"
