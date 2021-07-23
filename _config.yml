@@ -64,6 +64,10 @@ defaults:
     values:
       layout: single
 
+collections:
+  igpp-computing:
+    output: true
+
 footer:
   links:
     - label: "Github"

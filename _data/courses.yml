@@ -1,0 +1,13 @@
+igpp-computing:
+  - title: Unix
+    url: /igpp-computing/unix
+  - title: GMT
+    url: /igpp-computing/gmt
+  - title: Latex
+    url: /igpp-computing/latex
+  - title: Git
+    url: /igpp-computing/git
+  - title: High-Performance Computing
+    url: /igpp-computing/hpc
+  - title: Programming
+    url: /igpp-computing/programming
