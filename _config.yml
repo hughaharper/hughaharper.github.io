@@ -44,7 +44,7 @@ plugins:
 
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 
-include: ["_pages"]
+include: ["_pages","_igpp-computing"]
 
 defaults:
   # _posts
@@ -64,9 +64,6 @@ defaults:
     values:
       layout: single
 
-collections:
-  igpp-computing:
-    output: true
 
 footer:
   links:
