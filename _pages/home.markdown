@@ -17,7 +17,7 @@ I am a PhD candidate in geophysics at the Scripps Institution of Oceanography. I
 
 Please feel free to email me at *huharper* \[at\] *ucsd* \[dot\] *edu* with questions or comments.
 
-[IGPP Computing Course](/igpp-computing)
+[IGPP Computing Course](https://igppweb.ucsd.edu/~huharper/igpp-computing/)
 
 <br/>
 
